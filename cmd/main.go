@@ -12,6 +12,7 @@ import (
 	"github.com/ikawaha/kagome/v2/tokenizer"
 )
 
+// moji is 文字列格納用
 type moji struct {
 	text     string
 	row      int
